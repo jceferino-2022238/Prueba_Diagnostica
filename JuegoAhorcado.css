@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: #e8fffb;
+    height: 400px;
+    width: 600px;
+    align-content: center;
+    position: absolute;
+    left: 500px;
+}
+.titulo{
+    background-color: #b8ffec;
+    text-align: center;
+}
