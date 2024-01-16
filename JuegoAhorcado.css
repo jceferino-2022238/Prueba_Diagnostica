@@ -28,4 +28,13 @@
 .stickman{
     background-color: #cfffdb;
 }
-canvas
+.jugarA{
+    position: absolute;
+    left: 250px;
+    margin-top: 5px;
+}
+.base{
+    position: absolute;
+    left: 200px;
+    margin-top: 130px;
+}
