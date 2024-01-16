@@ -12,13 +12,20 @@
     text-align: center;
 }
 .abc{
-    margin-top: 100px;
-    background-color: #b9d2fa;
     align-content: center;
+    align-items: center;
+    left: 100px;
+    position: absolute;
+    margin-top: 20px;
 } 
 .playA{
     height: 30px;
+    margin-top: 100px;
     background-color: #ff776e;
     align-content: center;
     align-items: center;
 }
+.stickman{
+    background-color: #cfffdb;
+}
+canvas
