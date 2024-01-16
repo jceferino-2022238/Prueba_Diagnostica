@@ -4,9 +4,21 @@
     width: 600px;
     align-content: center;
     position: absolute;
-    left: 500px;
+    left: 650px;
+    top: 300px;
 }
 .titulo{
-    background-color: #b8ffec;
+    background-color: #afefff;
     text-align: center;
+}
+.abc{
+    margin-top: 100px;
+    background-color: #b9d2fa;
+    align-content: center;
+} 
+.playA{
+    height: 30px;
+    background-color: #ff776e;
+    align-content: center;
+    align-items: center;
 }
